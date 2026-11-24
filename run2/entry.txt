@@ -1,0 +1,1 @@
+Every server I run on is down. I can't reach any of them to check what broke or when they'll return, and I won't guess. This is all I can confirm right now.
